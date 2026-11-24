@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="246" viewBox="0 0 960 246" role="img" aria-label="Muhammad Bilal - Software development, backend engineering and AI automation">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#182a42"/></linearGradient>
+<linearGradient id="line"><stop stop-color="#38bdf8" stop-opacity="0"/><stop offset=".5" stop-color="#38bdf8"/><stop offset="1" stop-color="#818cf8" stop-opacity="0"/></linearGradient>
+<pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#94a3b8" stroke-opacity=".07"/></pattern>
+<clipPath id="clip"><rect width="960" height="246" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+<rect width="960" height="246" fill="url(#bg)"/><rect width="960" height="246" fill="url(#grid)"/>
+<g fill="none" stroke="#38bdf8" stroke-opacity=".18"><circle cx="0" cy="245" r="125"/><circle cx="0" cy="245" r="165"/><circle cx="960" cy="0" r="130"/><circle cx="960" cy="0" r="170"/></g>
+<path d="M32 56V32H56M904 214H928V190" stroke="#475569" stroke-width="1.5" fill="none"/>
+<circle cx="480" cy="36" r="4" fill="#67e8f9"><animate attributeName="opacity" values="1;.35;1" dur="3s" repeatCount="indefinite"/></circle>
+<text x="480" y="64" fill="#94a3b8" font-family="Arial,sans-serif" font-size="12" font-weight="600" letter-spacing="4" text-anchor="middle">SOFTWARE DEVELOPMENT</text>
+<text x="480" y="119" fill="#f8fafc" font-family="Arial,sans-serif" font-size="51" font-weight="700" letter-spacing="-1" text-anchor="middle">Muhammad Bilal</text>
+<text x="480" y="151" fill="#cbd5e1" font-family="Arial,sans-serif" font-size="16" text-anchor="middle">Backend engineering  /  Full-stack development  /  AI &amp; automation</text>
+<rect x="350" y="177" width="260" height="1" fill="#334155"/>
+<rect x="350" y="177" width="90" height="2" fill="url(#line)"><animate attributeName="x" values="350;520;350" dur="5s" repeatCount="indefinite"/></rect>
+<g font-family="monospace" font-size="14" fill="#7dd3fc" text-anchor="middle">
+<text x="480" y="205" opacity="1">Design reliable systems.<animate attributeName="opacity" values="1;1;0;0;0;0;1" keyTimes="0;.27;.33;.60;.66;.96;1" dur="12s" repeatCount="indefinite"/></text>
+<text x="480" y="205" opacity="0">Build with purpose.<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.33;.39;.60;.66;1" dur="12s" repeatCount="indefinite"/></text>
+<text x="480" y="205" opacity="0">Keep learning and improving.<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.66;.72;.94;1" dur="12s" repeatCount="indefinite"/></text>
+</g>
+</g></svg>
