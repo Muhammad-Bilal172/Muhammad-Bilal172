@@ -1,73 +1,89 @@
 <div align="center">
-  <img src="./assets/signal-identity.svg" width="100%" alt="Muhammad Bilal. Signal Field. Backend engineering, full-stack development, AI and automation, software architecture." />
-  <br/>
-  <a href="https://github.com/Muhammad-Bilal172?tab=repositories">Repositories</a>
-  &nbsp; / &nbsp;
-  <a href="https://github.com/Muhammad-Bilal172#js-contribution-activity">Activity</a>
-  &nbsp; / &nbsp;
-  <a href="https://github.com/Muhammad-Bilal172?tab=followers">Connections</a>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=Muhammad-Bilal172&amp;label=Profile%20views&amp;color=46785c&amp;style=flat-square" alt="Profile views" />
+
+<img src="./assets/prism-hero.svg" width="100%" alt="Muhammad Bilal | Chromatic Systems. Software development, backend engineering, full-stack development and AI automation." />
+
+<br/>
+
+[About](#about-me) &nbsp; / &nbsp; [Technology](#technology-stack) &nbsp; / &nbsp; [Activity](#github-activity) &nbsp; / &nbsp; [Connect](#connect)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Muhammad--Bilal172-1D2A50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhammad-Bilal172)
+[![Followers](https://img.shields.io/github/followers/Muhammad-Bilal172?style=for-the-badge&label=Followers&color=6269D8&logo=github)](https://github.com/Muhammad-Bilal172?tab=followers)
+![Profile views](https://komarev.com/ghpvc/?username=Muhammad-Bilal172&label=Profile%20views&color=6269D8&style=for-the-badge)
+
 </div>
 
-## Engineering approach
+## About me
 
-<img src="./assets/signal-method.svg" width="100%" alt="Engineering approach: understand requirements and architecture; design data models and APIs; build backend and web interfaces; refine with testing and automation." />
+<img src="./assets/prism-about.svg" width="100%" alt="I build software that makes complexity manageable. Backend services, data models, APIs, modern web interfaces, maintainable architecture and AI-assisted workflows." />
 
-## Technology atlas
+<img src="./assets/prism-blueprint.svg" width="100%" alt="Conceptual engineering blueprint: interface, service, data and delivery, connected by animated data flows." />
 
-51 technologies, tools and concepts across six engineering domains.
+## Technology stack
 
-<img src="./assets/signal-atlas-1.svg" width="100%" alt="Languages: Python, TypeScript, JavaScript, SQL, HTML5, CSS3, Bash. Backend: Django, Django REST Framework, REST APIs, OpenAPI, JWT, WebSockets, Celery, RabbitMQ." />
+<div align="center">
 
-<img src="./assets/signal-atlas-2.svg" width="100%" alt="Frontend: React, React Router, Vite, Tailwind CSS, TanStack Query, Zustand, Node.js, npm, i18next, Leaflet. Infrastructure: PostgreSQL, Redis, Docker, Docker Compose, Linux, Nginx, Git, GitHub, GitHub Actions." />
+<img src="https://skillicons.dev/icons?i=python&amp;theme=dark" width="46" height="46" alt="Python" />
+<img src="https://skillicons.dev/icons?i=django&amp;theme=dark" width="46" height="46" alt="Django" />
+<img src="https://skillicons.dev/icons?i=ts&amp;theme=dark" width="46" height="46" alt="TypeScript" />
+<img src="https://skillicons.dev/icons?i=react&amp;theme=dark" width="46" height="46" alt="React" />
+<img src="https://skillicons.dev/icons?i=postgres&amp;theme=dark" width="46" height="46" alt="PostgreSQL" />
+<img src="https://skillicons.dev/icons?i=redis&amp;theme=dark" width="46" height="46" alt="Redis" />
+<img src="https://skillicons.dev/icons?i=docker&amp;theme=dark" width="46" height="46" alt="Docker" />
+<img src="https://skillicons.dev/icons?i=linux&amp;theme=dark" width="46" height="46" alt="Linux" />
+<img src="https://skillicons.dev/icons?i=git&amp;theme=dark" width="46" height="46" alt="Git" />
+<img src="https://skillicons.dev/icons?i=githubactions&amp;theme=dark" width="46" height="46" alt="GitHub Actions" />
 
-<img src="./assets/signal-atlas-3.svg" width="100%" alt="Testing and observability: pytest, Playwright, Vitest, Testing Library, Prometheus, Sentry, Stripe, Pillow, JSON Schema. AI exploration: OpenAI, AI Agents, LLMs, RAG, MCP, FastAPI, LangChain, n8n." />
+</div>
+
+<img src="./assets/prism-stack-1.svg" width="100%" alt="Languages: Python, TypeScript, JavaScript, SQL, HTML5, CSS3, Bash. Backend: Django, Django REST Framework, REST APIs, OpenAPI, JWT, WebSockets, Celery, RabbitMQ." />
+
+<img src="./assets/prism-stack-2.svg" width="100%" alt="Frontend: React, React Router, Vite, Tailwind CSS, TanStack Query, Zustand, Node.js, npm, i18next, Leaflet. Data and infrastructure: PostgreSQL, Redis, Docker, Docker Compose, Linux, Nginx, Git, GitHub, GitHub Actions." />
+
+<img src="./assets/prism-stack-3.svg" width="100%" alt="Testing and integrations: pytest, Playwright, Vitest, Testing Library, Prometheus, Sentry, Stripe, Pillow, JSON Schema. AI exploration: OpenAI, AI Agents, LLMs, RAG, MCP, FastAPI, LangChain, n8n." />
 
 <details>
-<summary>Technology index (text version)</summary>
+<summary>51 technologies and concepts / accessible text index</summary>
 
 - **Languages:** Python, TypeScript, JavaScript, SQL, HTML5, CSS3, Bash.
 - **Backend:** Django, Django REST Framework, REST APIs, OpenAPI, JWT, WebSockets, Celery, RabbitMQ.
 - **Frontend:** React, React Router, Vite, Tailwind CSS, TanStack Query, Zustand, Node.js, npm, i18next, Leaflet.
 - **Data & infrastructure:** PostgreSQL, Redis, Docker, Docker Compose, Linux, Nginx, Git, GitHub, GitHub Actions.
 - **Testing & integrations:** pytest, Playwright, Vitest, Testing Library, Prometheus, Sentry, Stripe, Pillow, JSON Schema.
-- **AI & automation (exploration):** OpenAI, AI Agents, LLMs, RAG, MCP, FastAPI, LangChain, n8n.
+- **AI & automation (active exploration):** OpenAI, AI Agents, LLMs, RAG, MCP, FastAPI, LangChain, n8n.
 
 </details>
 
-## Activity signals
+## GitHub activity
 
-<img src="./assets/signal-activity.svg" width="100%" alt="Contribution calendar from GitHub API, snapshot November 24, 2026: 896 contributions, 92 active days, peak daily count 40." />
+<img src="./assets/prism-activity.svg" width="100%" alt="GitHub contribution calendar, snapshot November 24, 2026: 898 contributions in the last year, 92 active days, peak daily count 40." />
 
-<img src="./assets/signal-language.svg" width="100%" alt="Language distribution by source bytes across own public repositories: Python, HTML, CSS and Dockerfile. Snapshot November 24, 2026." />
+<img src="./assets/prism-languages.svg" width="100%" alt="Language distribution across owned public non-fork repositories by source bytes: Python, HTML, CSS and Dockerfile. Snapshot November 24, 2026." />
 
-<sub>Custom graphics use dated GitHub API snapshots. Language distribution covers public, non-fork repositories only.</sub>
-
-<details>
-<summary>Live contribution streak and activity graph</summary>
+<sub>Custom activity and language graphics are dated GitHub API snapshots. The following streak and activity graph update through their respective services.</sub>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Muhammad-Bilal172&amp;background=101514&amp;stroke=34443e&amp;ring=a7f3c5&amp;fire=e8b97c&amp;currStreakNum=f0f3e9&amp;sideNums=f0f3e9&amp;currStreakLabel=a7f3c5&amp;sideLabels=a5b6ac&amp;dates=a5b6ac&amp;hide_border=true" />
-    <img alt="Live contribution streak" src="https://streak-stats.demolab.com/?user=Muhammad-Bilal172&amp;theme=default&amp;hide_border=true" />
-  </picture>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Bilal172&amp;bg_color=101514&amp;color=a5b6ac&amp;line=a7f3c5&amp;point=e8b97c&amp;area=true&amp;hide_border=true" />
-    <img width="100%" alt="Live contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Bilal172&amp;bg_color=ffffff&amp;color=40594d&amp;line=46785c&amp;point=ba854a&amp;area=true&amp;hide_border=true" />
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Muhammad-Bilal172&amp;background=0A1028&amp;stroke=2A3C67&amp;ring=58E6FF&amp;fire=B49BFF&amp;currStreakNum=F4F7FF&amp;sideNums=F4F7FF&amp;currStreakLabel=58E6FF&amp;sideLabels=A6B7DA&amp;dates=A6B7DA&amp;hide_border=true" />
+  <img alt="Live GitHub contribution streak" src="https://streak-stats.demolab.com/?user=Muhammad-Bilal172&amp;theme=default&amp;hide_border=true" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Bilal172&amp;bg_color=0A1028&amp;color=A6B7DA&amp;line=58E6FF&amp;point=B49BFF&amp;area=true&amp;hide_border=true" />
+  <img width="100%" alt="Live GitHub contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Bilal172&amp;bg_color=ffffff&amp;color=475569&amp;line=2563eb&amp;point=6366f1&amp;area=true&amp;hide_border=true" />
+</picture>
+
 </div>
-</details>
 
-## Open channel
+## Connect
 
-<img src="./assets/signal-connect.svg" width="100%" alt="Open to exchanging ideas, technical collaboration and continuous learning." />
+<img src="./assets/prism-connect.svg" width="100%" alt="Let's connect. Build thoughtfully. Keep learning. Improve continuously." />
 
 <div align="center">
 
-[GitHub profile](https://github.com/Muhammad-Bilal172) &nbsp; / &nbsp; [Contribution history](https://github.com/Muhammad-Bilal172#js-contribution-activity)
+[![GitHub](https://img.shields.io/badge/GitHub-View_profile-1D2A50?style=for-the-badge&logo=github&logoColor=58E6FF)](https://github.com/Muhammad-Bilal172)
+[![Activity](https://img.shields.io/badge/GitHub-Contribution_history-1D2A50?style=for-the-badge&logo=githubactions&logoColor=B49BFF)](https://github.com/Muhammad-Bilal172#js-contribution-activity)
 
-<sub>MB / SIGNAL FIELD</sub>
+<sub>MB / CHROMATIC SYSTEMS</sub>
 
 </div>
