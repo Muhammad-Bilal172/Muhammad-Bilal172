@@ -1,10 +1,13 @@
 <div align="center">
 
-<img src="./assets/prism-hero.svg" width="100%" alt="Muhammad Bilal | Chromatic Systems. Software development, backend engineering, full-stack development and AI automation." />
+<img src="./assets/prism-hero-v2.svg" width="100%" alt="Muhammad Bilal | Chromatic Systems. Software development, backend engineering, full-stack development and AI automation." />
 
 <br/>
 
-[About](#about-me) &nbsp; / &nbsp; [Technology](#technology-stack) &nbsp; / &nbsp; [Activity](#github-activity) &nbsp; / &nbsp; [Connect](#connect)
+<a href="#about-me"><img src="./assets/prism-link-about.svg" width="23%" alt="About me" /></a>
+<a href="#technology-stack"><img src="./assets/prism-link-technology.svg" width="23%" alt="Technology" /></a>
+<a href="#github-activity"><img src="./assets/prism-link-activity.svg" width="23%" alt="Activity" /></a>
+<a href="#connect"><img src="./assets/prism-link-connect.svg" width="23%" alt="Connect" /></a>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Muhammad--Bilal172-1D2A50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhammad-Bilal172)
 [![Followers](https://img.shields.io/github/followers/Muhammad-Bilal172?style=for-the-badge&label=Followers&color=6269D8&logo=github)](https://github.com/Muhammad-Bilal172?tab=followers)
@@ -14,7 +17,7 @@
 
 ## About me
 
-<img src="./assets/prism-about.svg" width="100%" alt="I build software that makes complexity manageable. Backend services, data models, APIs, modern web interfaces, maintainable architecture and AI-assisted workflows." />
+<img src="./assets/prism-about-v2.svg" width="100%" alt="I build software that makes complexity manageable. Backend services, data models, APIs, modern web interfaces, maintainable architecture and AI-assisted workflows." />
 
 <img src="./assets/prism-blueprint.svg" width="100%" alt="Conceptual engineering blueprint: interface, service, data and delivery, connected by animated data flows." />
 
@@ -41,25 +44,13 @@
 
 <img src="./assets/prism-stack-3.svg" width="100%" alt="Testing and integrations: pytest, Playwright, Vitest, Testing Library, Prometheus, Sentry, Stripe, Pillow, JSON Schema. AI exploration: OpenAI, AI Agents, LLMs, RAG, MCP, FastAPI, LangChain, n8n." />
 
-<details>
-<summary>51 technologies and concepts / accessible text index</summary>
-
-- **Languages:** Python, TypeScript, JavaScript, SQL, HTML5, CSS3, Bash.
-- **Backend:** Django, Django REST Framework, REST APIs, OpenAPI, JWT, WebSockets, Celery, RabbitMQ.
-- **Frontend:** React, React Router, Vite, Tailwind CSS, TanStack Query, Zustand, Node.js, npm, i18next, Leaflet.
-- **Data & infrastructure:** PostgreSQL, Redis, Docker, Docker Compose, Linux, Nginx, Git, GitHub, GitHub Actions.
-- **Testing & integrations:** pytest, Playwright, Vitest, Testing Library, Prometheus, Sentry, Stripe, Pillow, JSON Schema.
-- **AI & automation (active exploration):** OpenAI, AI Agents, LLMs, RAG, MCP, FastAPI, LangChain, n8n.
-
-</details>
-
 ## GitHub activity
 
-<img src="./assets/prism-activity.svg" width="100%" alt="GitHub contribution calendar, snapshot November 24, 2026: 898 contributions in the last year, 92 active days, peak daily count 40." />
+<img src="./assets/prism-activity-v2.svg" width="100%" alt="GitHub contribution calendar, snapshot November 24, 2026: 900 contributions in the last year, 92 active days, peak daily count 40." />
 
 <img src="./assets/prism-languages.svg" width="100%" alt="Language distribution across owned public non-fork repositories by source bytes: Python, HTML, CSS and Dockerfile. Snapshot November 24, 2026." />
 
-<sub>Custom activity and language graphics are dated GitHub API snapshots. The following streak and activity graph update through their respective services.</sub>
+<sub>Calendar and language data: 24 Nov 2026 snapshot. Streak and activity graph: live.</sub>
 
 <div align="center">
 
@@ -81,9 +72,9 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-View_profile-1D2A50?style=for-the-badge&logo=github&logoColor=58E6FF)](https://github.com/Muhammad-Bilal172)
-[![Activity](https://img.shields.io/badge/GitHub-Contribution_history-1D2A50?style=for-the-badge&logo=githubactions&logoColor=B49BFF)](https://github.com/Muhammad-Bilal172#js-contribution-activity)
+<a href="https://github.com/Muhammad-Bilal172"><img src="./assets/prism-link-github.svg" width="37%" alt="GitHub profile" /></a>
+<a href="https://github.com/Muhammad-Bilal172#js-contribution-activity"><img src="./assets/prism-link-history.svg" width="37%" alt="Contribution history" /></a>
 
-<sub>MB / CHROMATIC SYSTEMS</sub>
+
 
 </div>
